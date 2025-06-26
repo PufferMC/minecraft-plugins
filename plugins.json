@@ -1,0 +1,23 @@
+[
+  {
+    "name": "EssentialsX",
+    "version": "2.21.1",
+    "description": "Core plugin for server essentials — homes, warps, economy, and more.",
+    "file": "EssentialsX-2.21.1.jar",
+    "url": "https://raw.githubusercontent.com/PufferMC/minecraft-plugins/main/EssentialsX-2.21.1.jar"
+  },
+  {
+    "name": "EssentialsXChat",
+    "version": "2.20.0",
+    "description": "Add chat formatting and display customization to EssentialsX.",
+    "file": "EssentialsXChat-2.21.1.jar",
+    "jar_url": "https://github.com/PufferMC/minecraft-plugins/blob/ceb8a045c84a3a22b20d3e920131e317af010813/EssentialsXChat-2.21.1.jar"
+  },
+  {
+    "name": "EssentialsXSpawn",
+    "version": "2.21.1",
+    "description": "Controls spawn behavior and locations in EssentialsX.",
+    "file": "EssentialsXSpawn-2.21.1.jar",
+    "url": "https://github.com/PufferMC/minecraft-plugins/blob/ceb8a045c84a3a22b20d3e920131e317af010813/EssentialsXSpawn-2.21.1.jar"
+  }
+]
